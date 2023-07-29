@@ -1,0 +1,43 @@
+/* add your CSS here */
+h3{
+  font-size: 24px;
+}
+
+img {
+  width: 300px;
+  height: 200px;
+  margin-bottom: 10px;
+}
+
+.italic{
+  font-style:italic;
+  padding:10px;
+  text-align:justify;
+}
+
+span{ 
+  font-weight: bold;
+}
+
+ul{
+  list-style: none;
+  padding:10px;
+}
+
+.bigbox{
+  border: solid thin lightgrey;
+  padding: 15px;
+  width:300px;
+  box-shadow: 10px 5px 5px lightgrey;
+}
+
+.smallbox{
+  border: solid thin lightgrey;
+  width: 300px;
+  background-color: rgb(230, 255, 230);
+}
+
+.space{
+  padding:10px;
+  text-align:justify;
+}
